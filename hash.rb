@@ -11,3 +11,5 @@ end
 hash = {peso: 29, altura: 175, edad: 50 }
 
 hash[:peso]
+
+hash.put(peso, 30)
