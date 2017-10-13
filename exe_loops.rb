@@ -26,4 +26,4 @@ while found != true
   i += 1
 end
 
-puts "Se repitió #{count}"
+puts "Se repitió #{count} veces"
