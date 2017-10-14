@@ -5,3 +5,13 @@
 "hola".chars
 "hola Carlos".split("l")
 ["hola", "Carlos"].join(" ")
+
+#tarea qué hacen?
+
+*_ 2
+<<_ "b"
+.capitalize
+.upcase
+.downcase
+.empty?
+.gsub
